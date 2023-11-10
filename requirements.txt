@@ -1,0 +1,15 @@
+asgiref==3.7.2
+blessed==1.20.0
+cffi==1.16.0
+cryptography==41.0.5
+cx-Oracle==8.3.0
+Django==4.2.7
+django-picklefield==3.1
+django-q2==1.6.1
+mysqlclient==2.2.0
+oracledb==1.4.2
+pycparser==2.21
+python-decouple==3.8
+six==1.16.0
+sqlparse==0.4.4
+wcwidth==0.2.9
